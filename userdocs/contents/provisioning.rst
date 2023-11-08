@@ -27,7 +27,7 @@ boot your nodes, please contact your hardware vendor support.
    ask them to certify their computing stack for the operating system
    you wish to use and the provisioning system. This helps hardware
    vendors to ensure their stack works with open source projects like
-   Warewulf, Debian, OpenSuSE, and Rocky Linux.
+   Warewulf, Debian, openSUSE, and Rocky Linux.
 
 The Provisioning Process
 ========================
